@@ -1,0 +1,6 @@
+country,active_users,content_created,reports,enforcements,appeals,successful_appeals,median_response_time_hours,report_rate,enforcement_rate,appeal_success_rate
+Indonesia,400441.4,13872.68,186.63,132.32,7.67,0.17,22.1,0.01,0.71,0.01
+Philippines,199702.16,7140.2,89.61,61.82,2.36,0.0,22.04,0.01,0.69,0.0
+Singapore,49971.49,1742.19,19.99,11.84,0.01,0.0,22.12,0.01,0.58,0.0
+Thailand,148796.73,5181.26,63.14,42.74,1.04,0.0,22.21,0.01,0.67,0.0
+Vietnam,181109.78,6222.93,78.97,54.26,1.79,0.0,22.21,0.01,0.68,0.0
